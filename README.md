@@ -17,7 +17,7 @@ CTR vs Timesteps
 CTR vs Timesteps of New LinUCB
 ![CTR vs Timesteps of New LinUCB Algorithms (Basic   PCA)](https://github.com/user-attachments/assets/a889cba5-ecf8-4805-93b2-992bb2941bd2)
 
-Algorithm Performance by Data Subset Size (epsilon=0 2)
+Algorithm Performance by Data Subset Size (epsilon=0.2)
 ![Algorithm Performance by Data Subset Size (epsilon=0 2)](https://github.com/user-attachments/assets/4c97ba02-08c0-42a4-a0ce-3459728d6596)
-Algorithm Performance by Data Subset Size (alpha=0 05)
+Algorithm Performance by Data Subset Size (alpha=0.05)
 ![Algorithm Performance by Data Subset Size (alpha=0 05)](https://github.com/user-attachments/assets/f25e561d-e875-455e-a6b3-f4c73074c2cc)
