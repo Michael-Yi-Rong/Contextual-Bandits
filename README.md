@@ -14,7 +14,6 @@ A Contextual-Bandit Approach to Personalized News Article Recommendation
    collection={WWW ’10}  
    }
 
-
 # Demo
 Learning Bucket of ϵ-greedy
 ![Learning Bucket of ϵ-greedy](https://github.com/user-attachments/assets/98a126ff-bd5c-4483-af39-7dd1f83c1d3e)
