@@ -2,17 +2,7 @@
 A Contextual-Bandit Approach to Personalized News Article Recommendation
 
 # Reference
-@inproceedings{Li_2010, series={WWW ’10},  
-   title={A contextual-bandit approach to personalized news article recommendation},  
-   url={http://dx.doi.org/10.1145/1772690.1772758},  
-   DOI={10.1145/1772690.1772758},  
-   booktitle={Proceedings of the 19th international conference on World wide web},  
-   publisher={ACM},  
-   author={Li, Lihong and Chu, Wei and Langford, John and Schapire, Robert E.},  
-   year={2010},  
-   month=apr, pages={661–670},  
-   collection={WWW ’10}  
-   }
+Lihong Li, Wei Chu, John Langford, and Robert E. Schapire. 2010. A contextual-bandit approach to personalized news article recommendation. In Proceedings of the 19th international conference on World wide web (WWW '10). Association for Computing Machinery, New York, NY, USA, 661–670. https://doi.org/10.1145/1772690.1772758
 
 # Demo
 Learning Bucket of ϵ-greedy
